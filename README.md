@@ -44,8 +44,6 @@ Either way, I like taking ideas beyond *"what if?"* and turning them into someth
 
 # ⭐ Featured Projects
 
-These are a few projects that probably tell you more about me than a list of technologies ever could.
-
 ---
 
 ## 🧠 Are You a Criminal? — Machine Learning & Facial Similarity
@@ -212,19 +210,6 @@ You'll also find smaller experiments, university projects, prototypes, research 
 ### Curious?
 
 [![Explore Repositories](https://img.shields.io/badge/EXPLORE%20ALL%20MY%20REPOSITORIES-→-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique?tab=repositories)
-
-</div>
-
----
-## 🤝 Let's connect
-
-If you're working on an interesting **software project, research question, AI experiment, or unconventional idea**, I'd be happy to connect.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henriquelimagusmao/)
-[![GitHub](https://img.shields.io/badge/Follow%20my%20work-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique)
-[![Portfolio](https://img.shields.io/badge/Explore%20more-Portfolio-000000?style=for-the-badge\&logo=githubpages)](https://limag-henrique.github.io/portfolio/)
 
 </div>
 
