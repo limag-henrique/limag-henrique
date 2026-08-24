@@ -216,38 +216,6 @@ You'll also find smaller experiments, university projects, prototypes, research 
 </div>
 
 ---
-
-## 🧩 What you'll find around here
-
-```text
-                  curiosity
-                      │
-                      ▼
-                 a question
-                      │
-                      ▼
-                  research
-                      │
-                      ▼
-                experiment
-                      │
-                      ▼
-                 prototype
-                      │
-                      ▼
-             "it actually works"
-                      │
-                      ▼
-          "how can I make it better?"
-```
-
-My repositories usually live somewhere inside this cycle.
-
-I'm particularly interested in:
-
-`Artificial Intelligence` • `Machine Learning` • `Software Engineering` • `Computer Vision` • `Data` • `Full-Stack Development` • `Human-AI Interaction` • `Research`
-
----
 ## 🤝 Let's connect
 
 If you're working on an interesting **software project, research question, AI experiment, or unconventional idea**, I'd be happy to connect.
