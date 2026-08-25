@@ -12,209 +12,125 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Lima%20Gusmão-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henriquelimagusmao/)
 [![GitHub](https://img.shields.io/badge/GitHub-limag--henrique-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique)
 
-<br>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=limag-henrique\&style=flat-square)
+## About
 
-</div>
+Computer Science student at **UFMG** and software developer working on production and research projects involving **software engineering, systems, numerical optimization, computer vision, and applied AI**.
+
+I enjoy building systems end-to-end, debugging complex behavior, and turning technical ideas into reproducible, working software.
+
+**Languages:** Python · C++ · C · JavaScript/TypeScript · PHP · SQL
+
+**Tools & Technologies:** Git · GitHub Actions · Docker · Linux · NumPy · SciPy · Pandas · OpenCV · Laravel · Vue.js · MySQL/MariaDB
 
 ---
 
-## 👨‍💻 About me
+## Featured Projects
 
-I'm **Henrique**, a Computer Science student at **UFMG — Universidade Federal de Minas Gerais**.
+### [gweb](https://github.com/limag-henrique/gweb)
 
-I like projects that begin with a question.
+**Offline Visual Programming Environment**
 
-**Can a machine recognize patterns in thousands of faces?**
-**Can an AI become convincing enough to be mistaken for a real person?**
-**Can I build a financial system that actually solves a problem I have?**
-**What happens when I turn a personal idea into a full-stack application?**
+Browser-based visual dataflow IDE designed for fully offline use.
 
-That's usually where my projects start.
+* Drag-and-drop visual programming interface
+* Dynamic property inspection and project navigation
+* Context-sensitive component system
+* Offline build pipeline that generates standalone HTML applications
 
-I enjoy moving between **software engineering, artificial intelligence, academic research, experimentation, and practical problem-solving**.
-
-Some things I build are meant to become useful applications.
-Others are experiments designed to answer a question.
-
-Either way, I like taking ideas beyond *"what if?"* and turning them into something that can actually be tested.
+`JavaScript` `HTML/CSS` `Python` `Developer Tools`
 
 ---
 
-# ⭐ Featured Projects
+### [are-you-a-criminal-ML](https://github.com/limag-henrique/are-you-a-criminal-ML)
+
+**Face Embedding Evaluation & Robustness Research**
+
+Reproducible research pipeline for evaluating facial embeddings using ArcFace/InsightFace.
+
+* Face detection, alignment and normalized embeddings
+* Calibration and quality-stratified evaluation
+* Robustness and false-match analysis
+* Automated testing and scientific CI
+* Evaluated **9,482 embeddings across 60,045 pairwise comparisons**
+* Published as a reproducible research artifact on [Zenodo](https://doi.org/10.5281/zenodo.21659240)
+
+`Python` `NumPy` `InsightFace` `ArcFace` `OpenCV` `Computer Vision`
 
 ---
 
-## 🧠 Are You a Criminal? — Machine Learning & Facial Similarity
+### [sistemafinanceiro](https://github.com/limag-henrique/sistemafinanceiro)
 
-### *How similar is your face to a large gallery of publicly listed fugitives?*
+**Financial & Investment Management System**
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique/are-you-a-criminal-ML)
-[![Research](https://img.shields.io/badge/READ%20THE%20RESEARCH-Zenodo-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.21659240)
+Collaborative Python application for portfolio analysis and personal financial management.
 
-This project started as a **Machine Learning and Computer Vision experiment** using public images from major national and international fugitive databases.
+* Object-oriented application architecture
+* Portfolio risk and covariance analysis
+* Currency-normalized asset valuation
+* Markowitz portfolio optimization with SciPy
+* External financial-data integrations
+* Automated tests and defensive API handling
+* AI-assisted financial analysis
 
-The system processes facial images, extracts normalized **ArcFace / InsightFace embeddings**, and compares an uploaded image against a local reference gallery.
+[Live application](https://sistemafinanceirpython.streamlit.app/)
 
-Instead of simply saying *"match"* or *"no match"*, the experiment explores:
-
-* facial similarity scores;
-* nearest visual candidates;
-* cosine similarity;
-* false-match estimates;
-* image quality;
-* embedding distributions;
-* demographic composition and potential bias.
-
-The interesting part wasn't only making the system work.
-
-It was asking what its results actually **mean**.
-
-That led the project into questions involving **facial biometrics, dataset bias, representation, criminalization, ethics, and the limitations of machine learning models trained on real-world institutional data**.
-
-> The similarity score is an experimental visual metric — not evidence of identity or criminality.
-
-**Tech & concepts:**
-`Python` • `Computer Vision` • `Machine Learning` • `InsightFace` • `ArcFace` • `Embeddings` • `OpenCV` • `Biometrics` • `AI Ethics`
-
-👉 **[Explore the code](https://github.com/limag-henrique/are-you-a-criminal-ML)**
-📄 **[Read the research](https://doi.org/10.5281/zenodo.21659240)**
+`Python` `SciPy` `Pandas` `Streamlit` `APIs` `OOP`
 
 ---
 
-## 🦫❤️ Capivara Romântica — Can an AI Pass as Me?
+### [capivara-romantica](https://github.com/limag-henrique/capivara-romantica)
 
-### *What happens when people don't know whether they're talking to Henrique... or to an AI imitating Henrique?*
+**Human-AI Interaction Experiment**
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique/capivara-romantica)
-[![Experiment](https://img.shields.io/badge/TRY%20THE%20AI-Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)](https://huggingface.co/spaces/limag-henrique/teste-capivara)
-[![Research](https://img.shields.io/badge/READ%20THE%20RESEARCH-Zenodo-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.21539839)
+Experimental conversational agent created to study whether an AI could reproduce an individual's informal communication patterns.
 
-**Capivara Romântica** began as an unusual social and AI experiment at university.
+* Fine-tuned conversational persona
+* WhatsApp integration
+* Human-AI interaction experiment
+* Research on digital identity, disclosure and AI-generated communication
 
-I used conversations and communication patterns to fine-tune an AI persona designed to reproduce the informal way I communicate.
+[Live experiment](https://huggingface.co/spaces/limag-henrique/teste-capivara) ·
+[Research](https://doi.org/10.5281/zenodo.21539839)
 
-The goal was simple to describe but surprisingly difficult to answer:
-
-> **How long can someone talk to an AI before realizing that it isn't actually me?**
-
-I integrated the agent with **WhatsApp** and used it in a university social experiment in which participants interacted with a virtual version of "Henrique".
-
-The project eventually became more than an AI chatbot.
-
-It became an experiment about:
-
-* human perception of AI-generated conversation;
-* linguistic patterns that make AI feel artificial;
-* digital identity;
-* anthropomorphism;
-* trust;
-* deception and disclosure;
-* the boundaries of a practical Turing-like experiment.
-
-And, yes...
-
-The capybara also tried to help people find dates. 🦫❤️
-
-**Tech & concepts:**
-`Python` • `OpenAI` • `Fine-tuning` • `WhatsApp Automation` • `LLMs` • `Prompt Engineering` • `Human-AI Interaction` • `AI Ethics`
-
-👉 **[Meet the Capivara](https://github.com/limag-henrique/capivara-romantica)**
-🧪 **[Try the experiment](https://huggingface.co/spaces/limag-henrique/teste-capivara)**
-📄 **[Read the research](https://doi.org/10.5281/zenodo.21539839)**
+`Python` `LLMs` `OpenAI` `Fine-tuning` `Human-AI Interaction`
 
 ---
 
-## 📚 Gusli Books — My First Full-Stack Project
+### [guslibooks](https://github.com/limag-henrique/guslibooks)
 
-### *My first step from building interfaces to building an entire application.*
+**Full-Stack Bookstore Application**
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique/guslibooks)
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Open%20App-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)](https://gusli-books.onrender.com/)
+Full-stack web application covering the complete application lifecycle.
 
-**Gusli Books** was my first project combining a complete **front-end and back-end** under my own personal brand, **Gusli**.
+* Responsive frontend
+* REST API
+* Relational database
+* Shopping cart and order workflow
+* Email notifications
+* Deployment
 
-It's a curated online bookstore concept based on something personal: the books in the project are books I've read, I'm currently reading, or intend to read.
+[Live application](https://gusli-books.onrender.com/)
 
-The project helped me move beyond isolated front-end development and think about an application as a complete system:
-
-* responsive user interface;
-* product catalog;
-* backend API;
-* relational database;
-* shopping cart;
-* orders;
-* email notifications;
-* application deployment.
-
-It was an important milestone for me because it was the point where the **interface, server, database, business logic, and deployment** stopped being separate concepts and became one product.
-
-**Tech:**
-`React` • `Vite` • `JavaScript` • `Tailwind CSS` • `Node.js` • `Express` • `SQLite` • `REST API`
-
-👉 **[Explore the source code](https://github.com/limag-henrique/guslibooks)**
-🌐 **[Open Gusli Books](https://gusli-books.onrender.com/)**
+`React` `JavaScript` `Node.js` `Express` `SQLite` `REST`
 
 ---
 
-## 💰 Financial & Investment Management System
+## Current Focus
 
-### *I couldn't find a tool that managed my Brazilian and international investments the way I wanted — so I helped build one.*
-
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique/sistemafinanceiro)
-[![Live App](https://img.shields.io/badge/TRY%20THE%20SYSTEM-Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://sistemafinanceirpython.streamlit.app/)
-
-This project was developed during my Computer Science studies at **UFMG** and became one of the most extensive software projects I've worked on.
-
-The original problem was very practical.
-
-I wanted a better way to understand **Brazilian and international investments in the same environment**, combining portfolio information, exchange rates, financial indicators, projections, and personal finances.
-
-The result evolved into a financial management application with features including:
-
-* 📊 income and expense management;
-* 💼 multi-asset investment portfolios;
-* 🇧🇷 Brazilian and international assets;
-* 📈 real-time market information;
-* 🏦 Banco Central do Brasil financial indicators;
-* 💵 currency conversion and asset dollarization;
-* 📉 portfolio correlation analysis;
-* 🧮 **Markowitz portfolio optimization**;
-* 🎯 financial goals and projections;
-* 💰 dividends and yield analysis;
-* 🧾 investment tax calculations;
-* 🤖 AI-powered analysis using **Mistral AI**;
-* 💾 offline caching and defensive API handling.
-
-My main contributions included the **object-oriented architecture, Streamlit interface, dashboards, portfolio and cash-flow interfaces, Markowitz optimization, asset dollarization, correlation analysis, Mistral AI integration, and several parts of the project's infrastructure and debugging**.
-
-What began as an academic group project eventually became something I could use to explore a real problem in my own financial life.
-
-**Tech & concepts:**
-`Python` • `Streamlit` • `Pandas` • `SciPy` • `Mistral AI` • `Yahoo Finance` • `Banco Central API` • `Markowitz Optimization` • `OOP`
-
-👉 **[Explore the repository](https://github.com/limag-henrique/sistemafinanceiro)**
-🚀 **[Try the live application](https://sistemafinanceirpython.streamlit.app/)**
+* Software engineering and systems
+* Data structures and algorithms
+* Debugging and concurrency
+* Reproducible experimentation
+* Numerical and optimization methods
+* Applied machine learning
 
 ---
-
-## 🔎 And that's not everything...
-
-These projects are only part of what I'm working on.
-
-You'll also find smaller experiments, university projects, prototypes, research ideas, and projects that are still evolving.
 
 <div align="center">
 
-### Curious?
-
-[![Explore Repositories](https://img.shields.io/badge/EXPLORE%20ALL%20MY%20REPOSITORIES-→-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique?tab=repositories)
+[View all repositories](https://github.com/limag-henrique?tab=repositories)
 
 </div>
 
----
-
-⭐ If something catches your attention, feel free to explore, fork, contribute, or leave a star.
-
-</div>
