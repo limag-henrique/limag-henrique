@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-000000?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://limag-henrique.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Lima%20Gusmão-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henriquelimagusmao/)
 [![GitHub](https://img.shields.io/badge/GitHub-limag--henrique-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique)
-
+</div>
 ---
 
 ## About
