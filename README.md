@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Lima%20Gusmão-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henriquelimagusmao/)
 [![GitHub](https://img.shields.io/badge/GitHub-limag--henrique-181717?style=for-the-badge\&logo=github)](https://github.com/limag-henrique)
 </div>
----
 
 ## About
 
@@ -27,21 +26,6 @@ I enjoy building systems end-to-end, debugging complex behavior, and turning tec
 ---
 
 ## Featured Projects
-
-### [gweb](https://github.com/limag-henrique/gweb)
-
-**Offline Visual Programming Environment**
-
-Browser-based visual dataflow IDE designed for fully offline use.
-
-* Drag-and-drop visual programming interface
-* Dynamic property inspection and project navigation
-* Context-sensitive component system
-* Offline build pipeline that generates standalone HTML applications
-
-`JavaScript` `HTML/CSS` `Python` `Developer Tools`
-
----
 
 ### [are-you-a-criminal-ML](https://github.com/limag-henrique/are-you-a-criminal-ML)
 
@@ -77,24 +61,6 @@ Collaborative Python application for portfolio analysis and personal financial m
 [Live application](https://sistemafinanceirpython.streamlit.app/)
 
 `Python` `SciPy` `Pandas` `Streamlit` `APIs` `OOP`
-
----
-
-### [capivara-romantica](https://github.com/limag-henrique/capivara-romantica)
-
-**Human-AI Interaction Experiment**
-
-Experimental conversational agent created to study whether an AI could reproduce an individual's informal communication patterns.
-
-* Fine-tuned conversational persona
-* WhatsApp integration
-* Human-AI interaction experiment
-* Research on digital identity, disclosure and AI-generated communication
-
-[Live experiment](https://huggingface.co/spaces/limag-henrique/teste-capivara) ·
-[Research](https://doi.org/10.5281/zenodo.21539839)
-
-`Python` `LLMs` `OpenAI` `Fine-tuning` `Human-AI Interaction`
 
 ---
 
