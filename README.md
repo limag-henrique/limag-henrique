@@ -2,7 +2,7 @@
 
 # Hi, I'm Henrique 👋
 
-### Computer Science @ UFMG • Software Development • AI • Research • Experiments
+### Computer Science @ UFMG • Software Development • AI • Research • UX/UI
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=21\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=720\&lines=Computer+Science+Student+%40+UFMG;Software+Developer;Machine+Learning+%26+AI+Experiments;Academic+Research;Turning+curiosity+into+projects...)](https://git.io/typing-svg)
 
